@@ -12,7 +12,14 @@ A **Python CLI tool** for digital signing and verification using RSA asymmetric 
 
 ---
 
+
+## Digital Signing & Verification Process
+
+<p align="center">
+  <img src="digital_signing_flow.png" alt="Digital Signing & Verification Flow" width="750">
+</p>
 ## Installation
+
 
 1. Clone the repository:
 
@@ -20,8 +27,3 @@ A **Python CLI tool** for digital signing and verification using RSA asymmetric 
 git clone https://github.com/pavanikrishnadola/RSA-Digital-SigUp.git
 cd RSA-Digital-SigUp
 
-## Digital Signing & Verification Process
-
-<p align="center">
-  <img src="digital_signing_flow.png" alt="Digital Signing & Verification Flow" width="750">
-</p>
